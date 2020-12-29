@@ -1,0 +1,31 @@
+{
+  "name": "@voken/edsv",
+  "version": "1.0.0",
+  "description": "@voken/edsv",
+  "keywords": [
+    "voken",
+    "voken1000g",
+    "crypto",
+    "cryptography",
+    "encrypt",
+    "decrypt",
+    "sign",
+    "verify"
+  ],
+  "homepage": "https://github.com/voken1000g/npm-edsv",
+  "author": "@voken1000g",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voken1000g/npm-edsv"
+  },
+  "bugs": {
+    "url": "https://github.com/voken1000g/npm-edsv/issues"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "eciesjs": "^0.3.8",
+    "elliptic": "^6.5.3"
+  },
+  "test": "echo \"Error: no test specified\" && exit 1"
+}

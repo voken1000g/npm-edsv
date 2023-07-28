@@ -25,7 +25,7 @@
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "dependencies": {
-    "eciesjs": "^0.3.8",
+    "eciesjs": "^0.4.3",
     "elliptic": "^6.5.3"
   },
   "test": "echo \"Error: no test specified\" && exit 1"
